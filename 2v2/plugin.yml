@@ -1,7 +1,0 @@
-name: Versus
-main: bukkit.khris1011.Versus
-version: 1.0
-commands:
-   V:
-      description: lol Nothing
-      usage: /<command>
