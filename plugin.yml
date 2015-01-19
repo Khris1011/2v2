@@ -1,0 +1,7 @@
+name: StaffRules
+main: me.khris1011.StaffRules
+version: 1.0
+author: Khris1011/FluffyBaeeee/Khristopher
+commands:
+ SRules:
+   aliases: [sr, srs, staffr, rstaff]
